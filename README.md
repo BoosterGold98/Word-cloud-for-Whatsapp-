@@ -1,6 +1,12 @@
 # Word-cloud-for-Whatsapp-
 Implementation of word cloud for whatsapp chats
 
+The code is divide into two files: 
+
+1. Pre processing of whatsapp exported chat (Test_clean)
+2. Making a word cloud from the chat (Output)
+
+The cloud image used to make this as well as the sample outputs are attached
 
 # Use of wordcloud for whatsapp chats
 
