@@ -6,7 +6,9 @@ The code is divide into two files:
 1. Pre processing of whatsapp exported chat (Test_clean)
 2. Making a word cloud from the chat (Output)
 
-The cloud image used to make this as well as the sample outputs are attached
+The cloud image used to make this as well as the sample outputs are attached.
+
+The sample outputs are made by using a excerpt from the python wikipedia page. 
 
 # Use of wordcloud for whatsapp chats
 
